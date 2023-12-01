@@ -1,5 +1,5 @@
 # FoodVision 🍔👁️
-Welcome to the FoodVision project! In this GitHub repository, we'll be exploring the exciting journey of building and scaling up our image classification model. Previously, in the notebook titled "Transfer Learning Part 3: Scaling Up," we crafted Food Vision mini, a transfer learning model that outperformed the original Food101 paper with just 10% of the data.
+Welcome to the FoodVision project! In this GitHub repository, we'll be exploring the exciting journey of building and scaling up our image classification model. Previously, in the notebook we crafted Food Vision mini, a transfer learning model that outperformed the original Food101 paper with just 10% of the data.
 
 ### But what if we unleashed the full power of our dataset?
 

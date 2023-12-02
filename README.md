@@ -5,7 +5,7 @@ Welcome to the FoodVision project! In this GitHub repository, we'll be exploring
 
 Enter Food Vision Big™ - our ambitious endeavor to utilize the entire Food101 dataset, consisting of a whopping 75,750 training images and 25,250 testing images. Our objective this time? To surpass the performance of DeepFood, a 2016 paper that achieved a top-1 accuracy of 77.4% using a Convolutional Neural Network trained for 2-3 days.
 
-** Note: **  Top-1 accuracy measures the accuracy for the highest softmax activation value output by the model.
+Note:  Top-1 accuracy measures the accuracy for the highest softmax activation value output by the model.
 
 ## Project Overview
 

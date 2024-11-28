@@ -31,6 +31,6 @@ Note:  Top-1 accuracy measures the accuracy for the highest softmax activation v
    
 Alongside our quest to beat the DeepFood paper, we'll dive into two key methods to enhance the speed of our model training: prefetching and mixed precision training.
 
-This project was in the course of TensorFlow
+
 
 
